@@ -11,5 +11,5 @@ app.use((req,res)=>{
 })
 
 
-
+//if 5000 port already in use you can chance yourself
 app.listen(5000)
