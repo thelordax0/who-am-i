@@ -6,7 +6,7 @@
     "nodemon": "^2.0.22"
   },"type": "module",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "name": "who-am-i",
   "version": "1.0.0",
